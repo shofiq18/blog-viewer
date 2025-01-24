@@ -18,7 +18,7 @@ export default Profile
 // export default async function ProfilePage() {
 //   const { getUser } = getKindeServerSession();
 //   const user = await getUser();
-
+ 
   
 //   if (!user) {
 //     redirect("/api/auth/login");
